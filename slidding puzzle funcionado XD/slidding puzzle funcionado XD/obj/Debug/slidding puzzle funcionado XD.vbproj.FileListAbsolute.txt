@@ -1,0 +1,32 @@
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.exe.config
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.exe
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.pdb
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.xml
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.vbprojAssemblyReference.cache
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form1.resources
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form2.resources
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form3.resources
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form4.resources
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form5.resources
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Resources.resources
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.vbproj.GenerateResource.cache
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.vbproj.CoreCompileInputs.cache
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.exe
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.xml
+C:\Users\121850\source\repos\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.pdb
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.exe.config
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.exe
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.pdb
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\bin\Debug\slidding puzzle funcionado XD.xml
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.vbprojAssemblyReference.cache
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form1.resources
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form2.resources
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form3.resources
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form4.resources
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Form5.resources
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding_puzzle_funcionado_XD.Resources.resources
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.vbproj.GenerateResource.cache
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.vbproj.CoreCompileInputs.cache
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.exe
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.xml
+C:\Users\121850\Desktop\slidding puzzle funcionado XD\slidding puzzle funcionado XD\obj\Debug\slidding puzzle funcionado XD.pdb
